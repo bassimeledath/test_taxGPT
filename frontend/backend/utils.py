@@ -27,7 +27,7 @@ def fill_tax_form(prompt_path, input_pdf_path, output_pdf_path):
         # Check if the file is a .txt file
         if filename.endswith(".txt"):
             # Construct full file path
-            file_path = os.path.join(info_path, filename)
+            file_path = filename
             # Open and read the text file, then append its content to `info`
             with open(file_path, "r", encoding="utf-8") as f:
                 info += f.read() + "\n"  # Add a newline to separate contents of different files
