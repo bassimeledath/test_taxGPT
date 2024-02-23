@@ -1,0 +1,11 @@
+First Name Clark
+Last Name Kent
+Address 30 Two Face St New York NY 10034
+Social Security Number 023456780
+State NY
+Wages 500000
+Social Security Wages 50000
+Medicare Wages 50000
+Federal Income Tax 4092
+Social Security 3100
+Medicare Tax 725

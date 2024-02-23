@@ -1,0 +1,9 @@
+Your first name and middle initial: "Kamala",
+Last name: "Harris",
+If joint return, spouse’s first name and middle initial: "Douglas",
+Last name (spouse): "Emhoff",
+Home address (number and street). If you have a P.O. box, see instructions.: "Number One Observatory Circle",
+City, town, or post office. If you have a foreign address, also complete spaces below.: "Washington",
+State: "DC",
+ZIP code: "20500",
+Presidential Election Campaign: "Yes"

@@ -1,0 +1,11 @@
+First Name Harvey
+Last Name Dent
+Address 24 Two Face St York NY 10024
+Social Security Number 123456789
+State NY
+Wages 500000
+Social Security Wages 50000
+Medicare Wages 50000
+Federal Income Tax 4092
+Social Security 3100
+Medicare Tax 725

@@ -1,0 +1,11 @@
+First Name Donald
+Last Name Trump
+Address 3211 21st St Atlanta GA 30001
+Social Security Number 333123212
+State GA
+Wages 500000
+Social Security Wages 50000
+Medicare Wages 50000
+Federal Income Tax 5278
+Social Security 3100
+Medicare Tax 725
