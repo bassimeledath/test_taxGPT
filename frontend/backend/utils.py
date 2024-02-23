@@ -16,6 +16,7 @@ def process_form(prompt_path, img_paths, out_path):
 
 
 def fill_tax_form(prompt_path, input_pdf_path, output_pdf_path):
+    prompt_path = prompt_path.split("/")[-1]
     # Directory containing the text files
     info_path = "."
     
