@@ -1,7 +1,7 @@
 {
-    "PROMPT_W2": "prompts/w2_prompt.txt",
-    "PROMPT_1040_PREV": "prompts/1040_prompt.txt",
-    "PROMPT_F1040": "prompts/text_model_prompt.txt",
+    "PROMPT_W2": "w2_prompt.txt",
+    "PROMPT_1040_PREV": "1040_prompt.txt",
+    "PROMPT_F1040": "text_model_prompt.txt",
     "W2_FORMS_DIR": "data/w2_forms",
     "PAST_1040_FORMS_DIR": "data/past_1040_forms",
     "INFO_DIR": "data/info/info_1040.txt",
